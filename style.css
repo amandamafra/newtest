@@ -1,0 +1,19 @@
+h1 {
+  color: salmon;
+}
+.introduction {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 16px;
+  font-weight: bolder;
+  transition: 0.3s font-size linear;
+}
+
+.introduction:hover {
+  font-size: 18px;
+  transition: 0.1s font-size linear;
+}
+
+#imagem {
+  border: 2px dotted greenyellow;
+  border-radius: 15px;
+}
